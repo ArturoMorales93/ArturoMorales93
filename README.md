@@ -1,4 +1,4 @@
-# IT engineer :computer:
+# QA Engineer :computer:
 
 ### Hello there 👋
   
